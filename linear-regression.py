@@ -52,3 +52,4 @@ Z = X**2 + 2*Y**2 + X*Y
 ax.plot_surface(X, Y, Z, cmap='viridis', alpha=0.5)
 # Add regularized path
 plt.show()
+
